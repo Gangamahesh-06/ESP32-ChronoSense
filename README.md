@@ -35,14 +35,9 @@ An ESP32-powered desk companion that synchronises with network time servers over
 
 ## 💻 Software Dependencies
 Ensure you have the following libraries installed in your Arduino IDE or PlatformIO project setup:
-1. **U8g2** by oliver (For OLED screen driving)
+1. **U8g2** by Oliver (For OLED screen driving)
 2. **DHT sensor library** by Adafruit (For DHT22 processing)
 3. **Adafruit Unified Sensor** by Adafruit (Core sensor requirement)
 
----
 
-## 🔧 Installation & Setup
 
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/ESP32-ChronoSense.git](https://github.com/YOUR_USERNAME/ESP32-ChronoSense.git)
